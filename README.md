@@ -1,12 +1,10 @@
-# NienLuanNganh_NguyenQuocVinh
-
 ## Giới thiệu
-Đây là repository cho đồ án niên luận ngành của Nguyễn Quốc Vinh. Dự án này bao gồm các tệp và thư mục liên quan đến nghiên cứu và phát triển của đồ án.
+Đây là repository cho đồ án niên luận ngành của Nguyễn Quốc Vinh, về vấn đề xây dựng mô hình tạo mô tả cho những hình ảnh quảng cáo sản phẩm công nghệ tại Việt Nam . Dự án này bao gồm các tệp và thư mục liên quan đến nghiên cứu và phát triển của đồ án.
 
 ## Cấu trúc thư mục
 - `NienLuanNganh.ipynb`: Tệp Jupyter Notebook chứa mã nguồn và phân tích của đồ án.
 - `dataset/`: Thư mục chứa dữ liệu sử dụng trong đồ án.
-  - `dataset/`: Thư mục con chứa các tệp dữ liệu cụ thể.
+  - `dataset/`: Thư mục con chứa các tệp dữ liệu cụ thể, gồm một thư mục ảnh và một tập tin mô tả.
 
 ## Cách sử dụng
 1. **Clone repository:**
