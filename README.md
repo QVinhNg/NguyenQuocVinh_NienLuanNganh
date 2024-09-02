@@ -16,5 +16,3 @@
 
 3. **Chạy mã nguồn:** Thực hiện các bước trong tệp NienLuanNganh.ipynb để tái tạo kết quả của đồ án.
 
-Liên hệ
-Nguyễn Quốc Vinh - nguyenquocvinh2002@gmail.com
